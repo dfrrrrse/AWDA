@@ -1,0 +1,22 @@
+[
+  {
+    "id": "قوانين العامة ",
+    "title": "القوانين قابلة للتغير ",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "قوانين الاجرام",
+    "title": "القوانين قابلة للتغير",
+    "description": "data/file2.txt"
+  },
+  {
+    "id":"قوانين البخاخات",
+    "title": "القوانين قابلة للتغير",
+    "description": "data/file3.txt"
+  },
+  {
+    "id": "قوانين الاعدامات ",
+    "title": "القوانين قابلة للتغير",
+    "description": "data/file4.txt"
+  }
+]
